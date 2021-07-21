@@ -1,0 +1,58 @@
+/* .fab {
+	border-radius: 100%;
+	bottom: 25px;
+	font-size: 10px;
+	position: fixed;
+	padding: 15px 17px;
+	left: 70px;
+}
+
+.fab:hover {
+	color: white;
+}
+
+.fas:hover {
+	color: white;
+}
+
+.fab-danger {
+	border-radius: 100%;
+	bottom: 25px;
+	right: 70px;
+	font-size: 10px;
+	position: fixed;
+	padding: 15px 17px;
+}
+
+.btn-fab-danger {
+	box-shadow: 0 5px 50px rgba(0, 0, 0, 0.288);
+	padding: 15px 17px;
+	background-color: rgb(214, 45, 45);
+	color: rgb(255, 255, 255);
+}
+
+.btn-fab-primary {
+	box-shadow: 0 5px 50px rgba(0, 0, 0, 0.288);
+	padding: 15px 17px;
+	background-color: rgb(5, 18, 48);
+	color: rgb(255, 255, 255);
+}
+
+@media only screen and (min-width: 768px) {
+	.fab {
+		border-radius: 100%;
+		bottom: 60px;
+		font-size: 10px;
+		position: fixed;
+		padding: 15px 17px;
+		left: 70px;
+	}
+	.fab-danger {
+		border-radius: 100%;
+		bottom: 60px;
+		right: 600px;
+		font-size: 10px;
+		position: fixed;
+		padding: 15px 17px;
+	}
+} */
